@@ -121,7 +121,7 @@ class App:
             self.resource_manager.models["sword"].rotation[2] += 0.3
 
         # Atualizar iluminacao
-        self.lightning.update(current_time)
+        self.lightning.update()
 
     def render(self):
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT)
