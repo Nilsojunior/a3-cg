@@ -19,7 +19,7 @@ do projeto até o resultado final.
 
 ### Clonar o repositório se necessário
 ```
-git clone https://github.com/Nilsojunior/a3
+git clone https://github.com/Nilsojunior/a3-cg
 ```
 
 ### Execução
