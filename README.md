@@ -10,8 +10,8 @@ Projeto Computação Gráfica
 
 ## Grupo
 
-- Nilso José Miguel da Silva Júnior
 - Matheus Pereira Silva
+- Nilso José Miguel da Silva Júnior
 
 ## Mentores
 
