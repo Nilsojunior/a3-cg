@@ -31,7 +31,7 @@ Projeto Computação Gráfica
   para a criação do modelo, foi utilizado o recurso
   **Incremental Save** para salvar diferentes versões
   do projeto até o resultado final.
-- [Sword32.blend](./blender/Sword32.blend) é a verão final.
+- [Sword32.blend](./blender/Sword32.blend) é a versão final.
 - Modelo exportado em `.obj`
 
 ## Rodando o Código
