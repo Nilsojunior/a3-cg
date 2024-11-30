@@ -2,7 +2,11 @@
 
 <img src="./pictures/UniRitterLogo.png" width="180"/>
 
-# A3 Computação Gráfica
+# Avaliação A3 
+
+Projeto Computação Gráfica
+
+</div>
 
 ## Grupo
 
