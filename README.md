@@ -2,7 +2,7 @@
 
 <img src="./pictures/UniRitterLogo.png" width="180"/>
 
-# Avaliação A3 
+# Avaliação A3
 
 Projeto Computação Gráfica
 
@@ -52,3 +52,13 @@ py app.py
 
 - DEMES, Lennart. The Public Domain 3D Library. ambientCG. Disponível em:
   [https://ambientcg.com/](https://ambientcg.com/). Acesso em: 27 nov. 2024.
+- STEMKOSKI, Lee; PASCALE, Michael. Developing Graphics Frameworks with
+  Python and OpenGL. 1. ed. Boca Raton: CRC Press, 2021. 25-82 p. ISBN 9781003181378.
+- BATOĆANIN, Vladimir. Advanced OpenGL in Python with PyGame and PyOpenGL.
+  Stack Abuse, 2019. Disponível
+  em: [https://stackabuse.com/advanced-opengl-in-python-with-pygame-and-pyopengl/](https://stackabuse.com/advanced-opengl-in-python-with-pygame-and-pyopengl/).
+  Acesso em: 29 nov. 2024.
+- KINSLEY, Harrison. PyOpenGL Basics: OpenGL with PyOpenGL introduction and creation of Rotating Cube.
+  Python Programming Tutorials, 2014. Disponível
+  em: [https://pythonprogramming.net/opengl-rotating-cube-example-pyopengl-tutorial/](https://pythonprogramming.net/opengl-rotating-cube-example-pyopengl-tutorial/).
+  Acesso em: 30 dez. 2024.
