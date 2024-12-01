@@ -62,9 +62,7 @@ def setup_opengl(display):
 
 class App:
     def __init__(self):
-        self.width = 1500
-        self.height = 800
-        self.display = (self.width, self.height)
+        self.display = [1500, 800]
         self.running = False
         self.clock = pg.time.Clock()
         self.fps = 60
